@@ -1,0 +1,3 @@
+[submodule "external/kariz"]
+	path = external/kariz
+	url = https://github.com/wikm360/kariz.git
